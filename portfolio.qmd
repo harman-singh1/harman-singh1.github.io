@@ -1,9 +1,10 @@
 ---
 title: "Portfolio"
-format: html
-editor: visual
 ---
 
-## Portfolio
-
 Here you can see some of the projects that I conducted.
+
+<ul> 
+  <li><a href="/portfolio/Research Project Report.html" target="_blank">Presidential Speeches Memo</a></li>
+  <li><a href="/portfolio/Research Project Presentation.html.html" target="_blank">Presidential Speeches Presentation</a></li>
+  </li>
