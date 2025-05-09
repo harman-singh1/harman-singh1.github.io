@@ -3,7 +3,6 @@ project:
   output-dir: docs
 
 website:
-  title: "harman-singh1.github.io"
   navbar:
     left:
       - href: index.qmd

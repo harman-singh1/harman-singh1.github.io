@@ -1,7 +1,17 @@
 ---
 title: "Harman Singh"
+image: images/harman_photo.jpg
+about:
+  template: trestles
+  image-width: 7cm
+  image-shape: round
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/harman-singh-abb652257/
 ---
 
-Hi! I am a recent graduate of John Cabot University with a BA in International Affairs! I have a passion for governance, democracy, and international cooperation. With a strong foundation in comparative politics, international humanitarian law, and data analysis and visualization, I am excited to tackle the problems at the intersection of these sectors. On this website you will find a showcase of my recent projects, demonstrating my ability to analyze and visualize historical trends aimed at academic and policy applications. Click on the following sections to see more.
+Hi! I am a recent graduate of John Cabot University with a BA in International Affairs! 
 
-You can also view my CV.
+I have a passion for governance, democracy, and international cooperation. With a strong foundation in comparative politics, international humanitarian law, and data analysis and visualization, I am excited to tackle the problems at the intersection of these sectors. On this website you will find a showcase of my recent projects, demonstrating my ability to analyze and visualize historical trends aimed at academic and policy applications. Click on the following sections to see more.
+
+You can also check out my <a href="/cv/harman-singh-cv.pdf" target="_blank">CV</a>.
